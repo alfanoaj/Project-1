@@ -1,3 +1,1 @@
-# Weather vs. Crime Analysis
-
-## We want to compare weather data in KCMO to crimes committed. We'll look at temperature, rain, snow etc. and compare it to all levels of crime. Data sources are the KCPD and Historical Hourly Weather Data from Kaggle.
+A project dedicated to analyzing KCMO weather vs. crimes committed.  The project takes a look at rain, temperature, snow, and other adverse conditions and compares it to a variety of crime as well as time of day the crimes were committed.  Data sources are the KCPD and Historical Hourly Weather Data from Kaggle.
